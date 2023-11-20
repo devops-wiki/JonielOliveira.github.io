@@ -1,4 +1,4 @@
-# GitHub Actions: Fluxo de Trabalho
+# Alteração do Título para Verificar o Funcionamento do Deploy
 
 No cenário de desenvolvimento de software, a automação de processos é crucial para melhorar a eficiência, garantir a qualidade do código e acelerar a entrega. O GitHub Actions é uma plataforma de automação integrada diretamente ao GitHub, permitindo a criação de fluxos de trabalho personalizados. Neste artigo, exploraremos o GitHub Actions, destacando sua importância, desenvolvimento de fluxos de trabalho e comparações com ferramentas similares.
 
