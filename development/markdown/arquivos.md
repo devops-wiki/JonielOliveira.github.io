@@ -51,4 +51,4 @@ Cada formato de arquivo - JSON, XML e Markdown - tem suas próprias vantagens e 
 
 - **Saiba mais sobre:** [Versionamento de Código: Git](/)
 - **Saiba mais sobre:** [Arquivos: Json, XML, Markdown](/arquivos.html)
-- **Saiba mais sobre:** [Campo para a terceira página](/)
+- **Saiba mais sobre:** [GitHub Actions](/actions.html)
