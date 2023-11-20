@@ -12,6 +12,11 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
 
+    environment:
+      name: production
+      url: https://jonieloliveira.github.io/
+      #url: ${{ secrets.PAGE_URL }}
+
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v2
