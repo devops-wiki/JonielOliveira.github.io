@@ -32,4 +32,4 @@ jobs:
       with:
         publish_branch: main
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./ # Substitua pelo diretório gerado pelo freeze.py
+        publish_dir: ./development/build # Substitua pelo diretório gerado pelo freeze.py
