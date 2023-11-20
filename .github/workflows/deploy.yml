@@ -2,8 +2,11 @@ name: Deploy
 
 on:
   push:
-    branches:
-      - main  # Defina a branch na qual deseja que o deploy seja acionado
+    branches: [ "develop" ]
+  pull_request:
+    branches: [ "main" ]
+permissions:
+  contents: write
 
 jobs:
   deploy:
