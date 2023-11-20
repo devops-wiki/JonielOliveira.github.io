@@ -8,7 +8,7 @@ app = Flask(__name__)
 def index():
 
     # Caminho para o arquivo Markdown
-    md_file_path = path.join(path.dirname(__file__), 'markdown\pagina.md')
+    md_file_path = path.join(path.dirname(__file__), 'markdown\index.md')
 
     # Carregue o conteúdo do arquivo Markdown
     with open(md_file_path, 'r', encoding='utf-8') as file:
