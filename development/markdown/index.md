@@ -64,7 +64,7 @@ Entender os conceitos fundamentais do Git, como repositórios, branches e commit
 
 #### Lista de conteúdos:
 
-- **Saiba mais sobre:** [Versionamento de Código: Git](/)
+- **Saiba mais sobre:** [Versionamento de Código: Git](/JonielOliveira.github.io/)
 - **Saiba mais sobre:** [Arquivos: Json, XML, Markdown](/JonielOliveira.github.io/arquivos.html)
 - **Saiba mais sobre:** [GitHub Actions](/JonielOliveira.github.io/actions.html)
 
