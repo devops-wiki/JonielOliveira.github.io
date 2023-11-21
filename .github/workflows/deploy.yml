@@ -14,8 +14,8 @@ jobs:
 
     environment:
       name: production
-      url: https://jonieloliveira.github.io/
-      #url: ${{ secrets.PAGE_URL }}
+      url: https://devops-wiki.github.io/JonielOliveira.github.io/
+      # url: ${{ secrets.PAGE_URL }}
 
     steps:
     - name: Checkout Repository
@@ -24,7 +24,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: 3.9  # Use a versão desejada do Python
+        python-version: 3.9  # Versão desejada do Python
 
     - name: Install Dependencies
       run: |
@@ -40,4 +40,4 @@ jobs:
       with:
         publish_branch: main
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./development/build # Substitua pelo diretório gerado pelo freeze.py
+        publish_dir: ./development/build # Diretório gerado pelo freeze.py
