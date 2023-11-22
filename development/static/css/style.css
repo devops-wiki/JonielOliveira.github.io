@@ -29,7 +29,8 @@ footer{
 }
 
 hr{
-    color: #A587FC;
+    /* color: #A587FC; */
+    color: #00FF00;
     border: 10px solid #A587FC;
     border-radius: 5px; 
 }
