@@ -1,4 +1,4 @@
-# Versionamento de Código: Git - Fernando
+# Versionamento de Código: Git
 
 O versionamento de código desempenha um papel fundamental no desenvolvimento de software moderno, permitindo que equipes colaborem eficientemente, acompanhem alterações, revertam para versões anteriores e gerenciem o ciclo de vida do código-fonte. Entre as diversas ferramentas disponíveis, o Git se destaca como uma escolha popular e poderosa. Neste artigo, exploraremos o Git, seus princípios fundamentais, comparações com outras tecnologias e sua importância no desenvolvimento de software.
 
@@ -64,7 +64,7 @@ Entender os conceitos fundamentais do Git, como repositórios, branches e commit
 
 #### Lista de conteúdos:
 
-- **Saiba mais sobre:** [Versionamento de Código: Git](/)
-- **Saiba mais sobre:** [Arquivos: Json, XML, Markdown](/arquivos.html)
-- **Saiba mais sobre:** [GitHub Actions](/actions.html)
+- **Saiba mais sobre:** [Versionamento de Código: Git](/JonielOliveira.github.io/)
+- **Saiba mais sobre:** [Arquivos: Json, XML, Markdown](/JonielOliveira.github.io/arquivos.html)
+- **Saiba mais sobre:** [GitHub Actions](/JonielOliveira.github.io/actions.html)
 
