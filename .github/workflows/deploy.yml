@@ -14,7 +14,7 @@ jobs:
 
     environment:
       name: production
-      url: https://devops-wiki.github.io/JonielOliveira.github.io/
+      url: https://JonielOliveira.github.io/
       # url: ${{ secrets.PAGE_URL }}
 
     steps:
