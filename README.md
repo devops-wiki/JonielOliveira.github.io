@@ -8,3 +8,5 @@ Criação de um site (blog) com aplicação de HTML, Markdown, Flask, Flask-Froz
 **Módulo:** Versionamento e Arquivos de Marcação
 
 Saiba mais em: [Wiki](https://github.com/JonielOliveira/JonielOliveira.github.io/wiki)
+
+Acesse o site(blog): [GitHub Pages](https://jonieloliveira.github.io/)
