@@ -1,6 +1,8 @@
-# Projeto ADA - Git, GitHub e Versionamento
+# Projeto Wiki/blog
+Criação de um site (blog) com aplicação de HTML, Markdown, Flask, Flask-Frozen etc.
 
-Criação de um site com aplicação de HTML, Markdown, FLASK e Frozen.
+**Instituição:** Ada Tech
+**Curso:** Vem Ser Tech - DevOps (iFood)
+**Módulo:** Versionamento e Arquivos de Marcação
 
-Opcionais:
- - Estilização com: CSS, Bootstrap.
+Saiba mais em: [Wiki](https://github.com/JonielOliveira/JonielOliveira.github.io/wiki)
