@@ -1,4 +1,4 @@
-# Arquivos: JSON, XML e Markdown
+# Arquivos: JSON, XML e Markdown (Atualização)
 
 Na programação e no desenvolvimento de software, a escolha do formato de arquivo certo para armazenar e transmitir dados é crucial. Três formatos amplamente utilizados são JSON (JavaScript Object Notation), XML (eXtensible Markup Language) e Markdown. Cada um desses formatos possui características específicas que os tornam adequados para diferentes finalidades. Neste artigo, exploraremos esses três tipos de arquivo, discutindo suas estruturas, aplicabilidades e comparações.
 
